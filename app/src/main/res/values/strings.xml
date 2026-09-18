@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI评论小助手</string>
+    <string name="accessibility_label">AI评论小助手读屏服务</string>
+    <string name="accessibility_desc">用于读取当前屏幕上的图文内容，生成各平台风格的评论。</string>
+</resources>

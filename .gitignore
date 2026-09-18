@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config
+local.properties
+
+# Keystores — 千万不要把签名文件传上 GitHub
+*.jks
+*.keystore
+
+# Logs / OS
+*.log
+.DS_Store
+
+# APK 产物
+*.apk
+*.aab
